@@ -1,0 +1,4 @@
+David, nota: 12
+Ximena, nota: 14
+Juan, nota: 15
+Pablo, nota: 05
